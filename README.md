@@ -1,4 +1,4 @@
-# Hi, I'm Melissa Pike.
+# Hi, I'm Melissa Pike, MPH, CPH, CIC.
 
 I'm an epidemiologist and data analyst, who currently works remotely with CDPHE in the Special Projects Team. With over fifteen years working in data quality, I enjoy working on a wide array of different and challenging projects. 
 Why do I like working in science and data? 
