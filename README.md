@@ -4,7 +4,7 @@ I'm an epidemiologist and data analyst, who currently works remotely with CDPHE 
 Why do I like working in science and data? 
 I love collaborating with others to solve problems.
  
-<img align="right" src="https://github.com/mapike907/Images/blob/main/Humaaans%20-%203%20Characters.png"/>
+<img align="right" src="https://github.com/mapike907/Images/blob/main/Hands%20-%20Analytics.png"/>
 
 
 ## Find me around the web :earth_americas: :
