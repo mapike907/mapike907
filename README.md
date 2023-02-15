@@ -1,9 +1,11 @@
 # Hi, I'm Melissa Pike.
 
-<div dir="lft">
 I'm an epidemiologist and data analyst, who currently works remotely with CDPHE in the Special Projects Team. With over fifteen years working in data quality, I enjoy working on a wide array of different and challenging projects. 
 Why do I like working in science and data? 
 I love collaborating with others to solve problems.
+ 
+<img align="right" src="https://github.com/mapike907/Images/blob/main/Humaaans%20-%203%20Characters.png"/>
+
 
 ## Find me around the web :earth_americas: :
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/melissa-pike-mph)
