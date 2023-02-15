@@ -1,6 +1,6 @@
 # Hi, I'm Melissa Pike.
 
-I'm an epidemiologist and data analyst, who currently works remotely with CDPHE in the Special Projects Team. With over fifteen years working in data quality as a pharma microbiologist, environmental chemistry data analyst, and public health epidemiologist, I enjoy working on wide array of different and challening projects, and collborating with people to meet the needs of our clients.
+I'm an epidemiologist and data analyst, who currently works remotely with CDPHE in the Special Projects Team. With over fifteen years working in data quality as a pharma microbiologist, environmental chemistry data analyst, and public health epidemiologist, I enjoy working on wide array of different and challening projects, and collborating in science and data.
 
 ## Find me around the web :earth_americas: :
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/melissa-pike-mph)
